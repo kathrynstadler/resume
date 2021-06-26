@@ -1,4 +1,4 @@
-# resume
+# Katie Stadler Resume
 
 Katie Stadler Resume Website 
 
