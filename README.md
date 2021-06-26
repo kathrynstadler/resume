@@ -1,3 +1,5 @@
 # resume
 
-Repository for my resume website. 
+Katie Stadler Resume Website 
+
+Built using JavaScript, HTML, CSS, and a Bootstrap template. 
