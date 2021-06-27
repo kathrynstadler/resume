@@ -1,6 +1,6 @@
 # Katie Stadler Resume
 
-Katie Stadler Resume Website 
+Katie Stadler's Resume Website 
 
 Built using JavaScript, HTML, CSS, and a Bootstrap template. Deployed on Heroku. 
 
